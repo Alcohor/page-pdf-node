@@ -1,0 +1,14 @@
+{
+  "name": "page-pdf-node",
+  "version": "1.0.0",
+  "description": "a page to pdf changer for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alcohor",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
